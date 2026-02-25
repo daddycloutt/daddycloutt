@@ -1,10 +1,10 @@
-# Hi am kelvin 👋
+# Hi am kelvin onyaro👋
 
 ### 🚀 About Me
 I am a **Junior Web Developer** based in **Nairobi, Kenya**. I have a passion for building clean, responsive, and user-friendly websites. I'm currently focused on mastering the frontend stack and exploring modern styling frameworks.
 
 -  I’m currently working on my **Personal Portfolio**
--  I’m currently learning **JavaScript and Tailwind CSS**
+-  I’m currently learning **html**
 -  Fun fact: I love creating "amazing user experiences" through code!
 
 ---
